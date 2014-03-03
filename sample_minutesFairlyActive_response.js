@@ -1,6 +1,7 @@
 // http://api.fitbit.com/1/user/229T6N/activities/minutesFairlyActive/date/2013-12-01/1m.json
 var minutesFairlyActive = {
-    "values":  [
+    "label": "Minutes Fairly Active",
+    "values": [
         {
             "dateTime": "2013-11-01",
             "value": "10"
